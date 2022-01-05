@@ -14,10 +14,11 @@ Overview of possible books to read
 
 - [ ] Principles, by Ray Dalio
 - [ ] Moonwalking with Einstein, Joshua Foer
+- [ ] The Book of Why, by Judea Pearl (Jinhua Zhao)
+- [ ] The Man Who Loved Only Numbers by Paul Hoffman 🍩 🔥
 
 ## General Recommendations (Recommender)
 
-- [ ] The Book of Why, by Judea Pearl (Jinhua Zhao)
 - [ ] Dark Money: The Hidden History of the Billionaires (Adam Freed)
 
 ## From Kevin's reading list
@@ -25,7 +26,6 @@ Overview of possible books to read
 - [ ] Upstream, by Dan Heath 😴
 - [ ] Flesh and Machines, by Rodney Brooks 🍩 🤖
 - [ ] Chatter by Ethan Kross 🧠
-- [ ] The Man Who Loved Only Numbers by Paul Hoffman 🍩 🔥
 - [ ] The Anthropocene Reviewed by John Green 🍩 🔥
 - [ ] Man's Search for Meaning by Viktor Frankl 🧠 🔥
 - [ ] Mindstorms by Seymour Papert 🤖 🧠
