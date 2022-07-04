@@ -40,3 +40,7 @@ Overview of possible books to read
 - [ ] Program or Be Programmed
 - [ ] The Alignment Problem
 - [ ] Exhalation by Ted Chiang
+
+## Read and Reviewed
+
+- [x] The Hidden Life of Trees by Peter Wohlleben 🧠 🐟 
