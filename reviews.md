@@ -1,5 +1,8 @@
 # Brief Reviews of What I've Read
 
+- [Brief Reviews of What I've Read](#brief-reviews-of-what-ive-read)
+  - [The Hidden Life of Trees by Peter Wohlleben 🧠 🐟](#the-hidden-life-of-trees-by-peter-wohlleben--)
+
 ## The Hidden Life of Trees by Peter Wohlleben 🧠 🐟
 
 Kind of a popular science coverage of, what I take to be, the latest scientific
